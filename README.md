@@ -63,4 +63,4 @@ The results were obtained on a Mac running macOS Catalina 10.15.6 with the follo
 
 ## License
 
-The content of this repository is licensed under the terms of the [MIT License](https://opensource.org/license/mit-license-php/).
+The content of this repository is licensed under the terms of the MIT License.
