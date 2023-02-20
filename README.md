@@ -1,6 +1,6 @@
-# Code & Data for "Pricing under Fairness Concerns"
+# Code and Data for "Pricing under Fairness Concerns"
 
-This repository contains the code and data associated with the article ["Pricing under Fairness Concerns"](https://pascalmichaillat.org/8/), written by [Erik Eyster](https://econ.ucsb.edu/people/faculty/erik-eyster), [Kristof Madarasz](https://www.lse.ac.uk/management/people/academic-staff/kmadarasz), and [Pascal Michaillat](https://pascalmichaillat.org), and published in the [Journal of the European Economic Association](https://doi.org/10.1093/jeea/jvaa041) in June 2021. 
+This repository contains the code and data accompanying the article ["Pricing under Fairness Concerns"](https://pascalmichaillat.org/8/), written by [Erik Eyster](https://econ.ucsb.edu/people/faculty/erik-eyster), [Kristof Madarasz](https://www.lse.ac.uk/management/people/academic-staff/kmadarasz), and [Pascal Michaillat](https://pascalmichaillat.org), and published in the [Journal of the European Economic Association](https://doi.org/10.1093/jeea/jvaa041) in June 2021. 
 
 ## Figure 1
 
@@ -53,10 +53,14 @@ To produce figure B.1 (in online appendix B), run the Matlab script `figureB1.m`
 
 The script then produces the figure and saves it as `figure_B1.pdf`.
 
-## Software versions
+## Software
 
-The results were obtain on a Mac running macOS Catalina 10.15.6 with the following software:
+The results were obtained on a Mac running macOS Catalina 10.15.6 with the following software:
 
 * Matlab R2020a
 * Dynare 4.5.7
 * Microsoft Excel 16.16.24
+
+## License
+
+The content of this repository is licensed under the terms of the [MIT License](https://opensource.org/license/mit-license-php/).
