@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021 Erik Eyster, Kristof madarasz, Pascal Michaillat
+Copyright (c) 2021 Erik Eyster, Kristof Madarasz, Pascal Michaillat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
