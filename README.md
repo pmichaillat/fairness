@@ -1,4 +1,4 @@
-# Code and Data for "Pricing under Fairness Concerns"
+# Pricing under Fairness Concerns: Code and Data
 
 This repository contains the code and data accompanying the article ["Pricing under Fairness Concerns"](https://pascalmichaillat.org/8/), written by [Erik Eyster](https://econ.ucsb.edu/people/faculty/erik-eyster), [Kristof Madarasz](https://www.lse.ac.uk/management/people/academic-staff/kmadarasz), and [Pascal Michaillat](https://pascalmichaillat.org), and published in the [Journal of the European Economic Association](https://doi.org/10.1093/jeea/jvaa041) in June 2021. 
 
